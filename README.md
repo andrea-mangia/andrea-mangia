@@ -6,5 +6,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me:
--[Instagram](https://www.instagram.com/andrea_mangia_/?igshid=MzNlNGNkZWQ4Mg%3D%3D)
--[linkedin](www.linkedin.com/in/agostino-andrea-mangia-685427279)
+  <a href="https://www.instagram.com/andrea_mangia_/?igshid=MzNlNGNkZWQ4Mg%3D%3D"><img src="Instagram_icon.png.webp" height=20vw width=20vw></a>
+  <a href="www.linkedin.com/in/agostino-andrea-mangia-685427279"><img src="174857.png" height=20vw width=20vw></a>
+-[linkedin]()
