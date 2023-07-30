@@ -43,8 +43,11 @@
   <hr>
 
 ### Some GitHub stats 📈  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andrea-mangia&show_icons=true&theme=gotham" alt="andrea-mangia" />
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=andrea-mangia&show_icons=true&theme=gotham" alt="andrea-mangia" </p>
+<p align="center">   
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-mangia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
+  
 ### How to reach me 📫
   <a href="https://www.instagram.com/andrea_mangia_/?igshid=MzNlNGNkZWQ4Mg%3D%3D"><img src="Instagram_icon.png.webp" height=50vw width=50vw></a>
   <a href="https://www.linkedin.com/in/agostino-andrea-mangia-685427279"><img src="linkedin-logo.png" height=50vw width=50vw></a>
